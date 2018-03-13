@@ -1,4 +1,4 @@
-# Moderadorbot
+# Moderadorbot v1
 Bot administrador de grupos para Telegram 
 
 Bot [@luluzinhabot](https://t.me/luluzinhabot)
